@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ASSIGN"]
+	path = ASSIGN
+	url = https://github.com/wejlab/assign
+[submodule "TBSignatureProfiler"]
+	path = TBSignatureProfiler
+	url = https://github.com/wejlab/tbsignatureprofiler
+[submodule "animalcules"]
+	path = animalcules
+	url = https://github.com/wejlab/animalcules
